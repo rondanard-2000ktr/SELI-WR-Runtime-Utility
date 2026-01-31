@@ -1,4 +1,10 @@
-SELI-WR Runtime Utility
+🛡 ARCHIVE PASS 
+
+ ────────────────
+ 
+ [ seliware ]
+
+ SELI-WR Runtime Utility
 
 SELI-WR is a specialized execution environment designed for advanced script analysis and workflow automation. This iteration focuses on high-performance memory management and seamless integration with complex 64-bit protected runtimes.
 ⚡ Core Capabilities
